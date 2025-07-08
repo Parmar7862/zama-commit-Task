@@ -1,4 +1,4 @@
-# ✅ How to Do More Than 10 Commits In GitHub Before 10 July
+# ✅ How to Do More Than 10 Commits In GitHub
 
 ---
 
@@ -103,7 +103,7 @@ git push
 
 • Just Wait 5-10 Minutes Max
 
-• You now have more than 10 public commits visible on your profile ( Before 10 July ) — ready to use for Zama Developer Program.
+• You now have more than 10 public commits.
 
 Post Credit
 🙌 Guide Created by: [@EarnByAbhi](https://x.com/earnbyabhi)
