@@ -7,7 +7,7 @@
 ### 1️⃣ Create a New Repository
 
 - Visit: https://github.com/new  
-- Repository Name: `zama-commit-test` (or any name)  
+- Repository Name: `zama-commit-task` (or any name)  
 - Set to **Public**  
 - ✅ Tick "Add a README file"  
 - Click **Create repository**
